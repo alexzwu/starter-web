@@ -8,7 +8,7 @@ This is a simple website project
 Another paragraph
 
 ## Purpose
-
+purpose paragraph
 
 ## Deployment
 
